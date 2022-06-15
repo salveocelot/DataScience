@@ -1,0 +1,4 @@
+import game_v2
+
+game_v2.score_game(game_v2.random_predict)
+
